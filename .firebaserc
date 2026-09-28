@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "adddemo-bfd9d"
+  },
+  "targets": {
+    "adddemo-bfd9d": {
+      "hosting": {
+        "fir-gitflow-nomade-234": [
+          "fir-gitflow-nomade-234"
+        ]
+      }
+    }
+  }
+}
